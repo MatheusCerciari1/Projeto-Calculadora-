@@ -1,30 +1,17 @@
-# Calculadora IMC - Projeto Acadêmico Fiap
+# Projeto-Calculadora-
 
-**Aluno:** Matheus Cerciari Reis - RM565817
-**Professor Orientador:** Wellington Cidade Silva Tenorio  
-**Instituição:** FIAP  
+Aluno: Matheus Cerciari Reis RM565817
 
----
+# Projeto:
 
-##  Sobre o Projeto
+Este projeto é uma Calculadora de IMC (Índice de Massa Corporal) que oferece:
 
-Este projeto foi desenvolvido como atividade acadêmica na FIAP.  
-O objetivo principal é **estilizar interface de um projeto construído em sala de aula**, aplicando cores, fontes e elementos visuais para melhorar a experiência do usuário.
+-Campo para inserir altura e peso.
+-Cálculo automático do IMC.
+-Exibição do resultado de forma clara e destacada.
+-Visualização da classificação do IMC em uma tabela organizada.
+-Avisos imediatos caso sejam inseridos valores inválidos.
 
-Trata-se de uma **Calculadora de IMC (Índice de Massa Corporal)**, que permite:  
+Link do repositório: https://github.com/MatheusCerciari1/Projeto-Calculadora-.git
 
-- Inserir altura e peso.  
-- Calcular o IMC automaticamente.  
-- Exibir o resultado em destaque.  
-- Visualizar a classificação do IMC em tabela.  
-- Receber alertas caso os valores inseridos sejam inválidos.
-
----
-
-## Tecnologias Utilizadas
-
-- **React.js** – Biblioteca para construção do frontend.  
-- **CSS3** – Para estilização do layout, formulários e tabelas.  
-- **SweetAlert2** – Para alertas estilizados e modernos.
-
-
+Link Vercel: https://projeto-calculadora-theta.vercel.app/
