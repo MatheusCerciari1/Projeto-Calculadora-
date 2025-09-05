@@ -15,3 +15,5 @@ Este projeto é uma Calculadora de IMC (Índice de Massa Corporal) que oferece:
 Link do repositório: https://github.com/MatheusCerciari1/Projeto-Calculadora-.git
 
 Link Vercel: https://projeto-calculadora-theta.vercel.app/
+
+Linkedin: Matheus Cerciari
