@@ -2,7 +2,7 @@
 
 Aluno: Matheus Cerciari Reis RM565817
 
-#Projeto:
+# Projeto:
 
 Este projeto é uma Calculadora de IMC (Índice de Massa Corporal) que oferece:
 
